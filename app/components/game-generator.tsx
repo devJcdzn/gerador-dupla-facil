@@ -46,7 +46,7 @@ export function GameGenerator() {
           icon={<GithubIcon className="w-6 h-6" />}
         />
         <SocialIcon
-          href="https://linkedin.com/in/jeancldev"
+          href="https://linkedin.com/in/jeancdev"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
