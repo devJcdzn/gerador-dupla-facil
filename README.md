@@ -62,7 +62,3 @@ WaitlistForm.tsx ← formulário de geração
 ---
 
 Feito com 💡 por Jean Carlos Lopes de Oliveira
-
----
-
-Se quiser, posso já gerar esse arquivo para você com download direto, ou integrar no seu projeto Next. Deseja isso?
